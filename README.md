@@ -3,6 +3,8 @@
 Welcome to the **Ramadhan 2026 CTF Pwn Challenges** repository.  
 This repo contains a collection of binary exploitation challenges crafted for the Ramadhan season.
 
+![ramadhan](https://github.com/YahyaMouelhi/yahyamouelhi.github.io/blob/main/assets/images/ramadhan-ctf-26/platform.png?raw=true)
+
 ---
 
 ## 📂 About
